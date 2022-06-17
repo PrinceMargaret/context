@@ -1,0 +1,76 @@
+{
+  "Books": [
+    {
+      "id": 1,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "picture": "/Images/RichDadandPoordad.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "picture": "/Images/LearnStartup.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The 4-Hour Workweek",
+      "author": "Timothy Ferriss",
+      "picture": "/Images/The 4-Hour Workweek.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Shrimad Bhagwat Gita",
+      "author": "Sun Tzu",
+      "picture": "/Images/Shrimad Bhagwat Gita.jpg"
+    },
+    {
+      "id": 5,
+      "title": "The Power of Habit",
+      "author": "Charles Duhigg",
+      "picture": "/Images/The Power of Habit.jpg"
+    },
+    {
+      "id": 6,
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey",
+      "picture": "/Images/The 7 Habits of Highly Effective People.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "picture": "/Images/RichDadandPoordad.jpg"
+    },
+    {
+      "id": 8,
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "picture": "/Images/LearnStartup.jpg"
+    },
+    {
+      "id": 9,
+      "title": "The 4-Hour Workweek",
+      "author": "Timothy Ferriss",
+      "picture": "/Images/The 4-Hour Workweek.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Shrimad Bhagwat Gita",
+      "author": "Sun Tzu",
+      "picture": "/Images/Shrimad Bhagwat Gita.jpg"
+    },
+    {
+      "id": 11,
+      "title": "The Power of Habit",
+      "author": "Charles Duhigg",
+      "picture": "/Images/The Power of Habit.jpg"
+    },
+    {
+      "id": 12,
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey",
+      "picture": "/Images/The 7 Habits of Highly Effective People.jpg"
+    }
+  ]
+}
